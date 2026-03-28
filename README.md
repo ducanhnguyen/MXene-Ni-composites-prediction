@@ -57,3 +57,5 @@ Results are saved in:
 out/<METHOD>_<DATASET>_<TIMESTAMP>/
 ```
 
+Our experiment is saved in the folder ``result``, for example:
+``result/result (LightGBM)/laser/20260215``: the result of LightBGM on the laser dataset. 
