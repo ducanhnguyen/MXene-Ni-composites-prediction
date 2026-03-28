@@ -1,0 +1,13 @@
+                          State        R2 (Δ)       MAE (Δ)
+2                       Force_X  2.176151e-01  1.564676e+01
+3                       Force_Y  1.973396e-01  1.422803e+01
+4                       Force_Z  1.312031e-01  1.459181e+01
+9                     BCC phase  1.706308e-02  3.272568e+01
+6   Dislocation length.1/2<110> -5.382299e-04  2.049441e+01
+7   Dislocation length.1/6<110> -4.976749e-03  2.237371e+01
+8   Dislocation length.1/6<112> -1.373935e-02  9.241756e+01
+10                    FCC phase -3.735638e-02  1.433959e+02
+11                    HCP phase -4.405808e-02  1.065359e+02
+5      Total dislocation length -1.640425e-01  1.010430e+02
+0                  Total energy -2.524610e+05  1.064306e+07
+1              Von Mises stress -8.024883e+16  8.600970e+06

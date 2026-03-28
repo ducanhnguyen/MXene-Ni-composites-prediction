@@ -1,0 +1,8 @@
+Method: XGBRegressor
+Best params:
+  estimator__colsample_bytree: 0.5
+  estimator__max_depth: 4
+  estimator__min_child_weight: 1
+  estimator__n_estimators: 300
+  estimator__subsample: 0.5
+Best CV score: -4199.421536
