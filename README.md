@@ -5,7 +5,7 @@ Laser: https://docs.google.com/spreadsheets/d/183KgvmUCT79BmPexeQbsxTLjefvmwUuR
 
 Tension: https://docs.google.com/spreadsheets/d/1RVRcfM41Z7x-oZpf02Zxjg7e-N5db7KK
 
-Polishing: https://docs.google.com/spreadsheets/d/1EHPqVT6uOG64yJjCdtRLqy4fdTvQliet/edit?gid=2111871208#gid=2111871208
+Polishing: https://docs.google.com/spreadsheets/d/1EHPqVT6uOG64yJjCdtRLqy4fdTvQliet
 
 ## How to run?
 
