@@ -37,8 +37,7 @@ Supported models:
 
 ### Select dataset and model
 
-Edit in `src/main.py`:
-
+All experiments are conducted by running `src/main.py`. 
 First, choose a dataset, for example:
 ```python
 DATA_TYPE = "tension"     # tension | polishing | laser
