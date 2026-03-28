@@ -1,4 +1,4 @@
-This is the implementation of the paper “'Integrating machine learning and molecular dynamics for predicting mechanical properties of MXene/Ni composites'.
+This is the implementation of the paper ``Integrating machine learning and molecular dynamics for predicting mechanical properties of MXene/Ni composites``.
 
 ## Dataset
 Laser: https://docs.google.com/spreadsheets/d/183KgvmUCT79BmPexeQbsxTLjefvmwUuR
